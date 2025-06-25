@@ -1,0 +1,23 @@
+{
+  "name": "robot-mouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique2003/robot-mouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrique2003/robot-mouse/issues"
+  },
+  "homepage": "https://github.com/henrique2003/robot-mouse#readme",
+  "description": "",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
