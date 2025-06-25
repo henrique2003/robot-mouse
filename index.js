@@ -16,3 +16,5 @@ function moveMouseSlightly() {
 console.log("Movimentando o mouse a cada 3 segundos...");
 
 setInterval(moveMouseSlightly, 1000 * intervaloMovimento);
+
+setInterval(() => {}, 1 << 30);
